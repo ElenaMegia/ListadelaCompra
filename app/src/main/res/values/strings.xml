@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista-de-la-Compra</string>
+    <string name="cantidad_hint">Cantidad</string>
+    <string name="precio_hint">Precio</string>
+    <string name="añadir_button_text">Añadir</string>
+    <string name="producto_hint">Producto</string>
+</resources>
